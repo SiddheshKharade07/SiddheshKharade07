@@ -45,7 +45,13 @@
 📊 **GitHub Stats:**  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddheshkharade07&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=siddheshkharade07&show_icons=true&locale=en" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddheshkharade07" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddheshkharade07&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddheshkharade07&show_icons=true&locale=en" alt="GitHub Stats" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddheshkharade07" alt="GitHub Streak" width="500"/>
 </p>
