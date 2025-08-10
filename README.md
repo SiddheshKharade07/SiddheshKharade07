@@ -43,9 +43,8 @@
 ---
 
 📊 **GitHub Stats:**  
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddheshkharade07&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="32%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=siddheshkharade07&show_icons=true&locale=en" alt="GitHub Stats" width="32%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddheshkharade07" alt="GitHub Streak" width="32%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddheshkharade07&layout=compact&theme=tokyonight&card_width=320" width="320" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siddheshkharade07&show_icons=true&theme=tokyonight&card_width=320" width="320" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddheshkharade07&theme=tokyonight" width="320" />
 </p>
