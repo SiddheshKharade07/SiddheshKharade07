@@ -1,9 +1,6 @@
 <h1 align="left">Hi 👋, I'm Siddhesh Kharade</h1>
 <h3 align="left">A passionate MERN Developer from India</h3>
 
-<!-- Banner on the right -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 ---
 
 - 🔭 I’m currently working on **full-stack MERN applications, smart contract integration, and scalable Node.js backend solutions**  
