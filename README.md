@@ -1,6 +1,6 @@
 <p align="center">
- <img width="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" align="center" alt="MERN Stack Logo" />
- <h2 align="center">Profile</h2>
+ <img width="100%" src="https://github.com/SiddheshKharade07/SiddheshKharade07/blob/main/WhatsApp%20Image%202025-11-25%20at%209.49.00%20AM.jpeg" align="center" alt="MERN Stack Logo" />
+ 
 </p>
 
 ### Hi there 👋 I'm [Siddhesh Kharade](https://github.com/siddheshkharade07)
