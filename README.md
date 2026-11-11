@@ -1,5 +1,5 @@
  <p align="center">
-  <img width="100%" src="[https://github.com/SiddheshKharade07/SiddheshKharade07/blob/main/WhatsApp%20Image%202025-11-25%20at%209.49.00%20AM.jpeg]" alt="GitHub Profile Banner" />
+  <img width="100%" src="https://github.com/SiddheshKharade07/SiddheshKharade07/blob/main/WhatsApp%20Image%202025-11-25%20at%209.49.00%20AM.jpeg" alt="GitHub Profile Banner" />
 </p>
 
 <h3 align="center">Hi there 👋, I'm <a href="https://github.com/siddheshkharade07">Siddhesh Kharade</a></h3>
